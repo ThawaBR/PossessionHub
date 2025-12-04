@@ -45,7 +45,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/WAV1991/PossessionHub
 - Version: 1.8.5
 
 ## Developers
-- Creator: ThawaBr
+- Creator: WAV1991
 
 ## Contributing
 Want to contribute? Open a pull request and if it checks out, we will merge it!
