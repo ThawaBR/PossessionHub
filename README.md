@@ -1,4 +1,4 @@
-# Possession Hub
+# Wav Hub
 
 Track possessed players and access upcoming features in one hub.
 
